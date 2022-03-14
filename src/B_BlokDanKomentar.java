@@ -1,4 +1,8 @@
 /**
- * contoh penggunaan white space
+ * contoh penggunaan white space di java
  */
-public class B_BlokDanKomentar { public static void main(String[] args) {System.out.println("Pemrograman berorientasi Obejek dengan Java");}}
+public class B_BlokDanKomentar {
+    public static void main(String[] args) {
+        System.out.println("Pemrograman Berorientasi dengan Java");
+    }
+}
